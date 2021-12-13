@@ -1,7 +1,7 @@
 const body = document.body
 const div = document.createElement("div")
 
-$(div).load("/bannerkiri.html");
+$(div).load("/main/bannerkiri.html");
 // div.innerHTML =
 
 // div.innerHTML = `
