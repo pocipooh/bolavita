@@ -1,7 +1,7 @@
 const body = document.body
 const div = document.createElement("div")
 
-$(div).load("/assets/bannerkiri.html");
+$(div).load("https://cdn.jsdelivr.net/gh/pocipooh/bolavita/bannerkiri.html");
 // div.innerHTML =
 
 // div.innerHTML = `
