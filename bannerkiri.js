@@ -1,5 +1,5 @@
-const body = document.body
-const div = document.createElement("div")
+const body = document.body;
+const div = document.createElement("div");
 
 $(div).load("https://raw.githubusercontent.com/pocipooh/bolavita/main/bannerkiri.html");
-body.append(div)
+body.appendChild(div);
